@@ -384,30 +384,21 @@ console.log("10.----------------------");
 //Jeigu tokio didelio masyvo (ne atskirai mažesnių) pirminių skaičių vidurkis mažesnis už 70, suraskite masyve mažiausią skaičių (nebūtinai pirminį) ir prie jo pridėkite 3.
 //Vėl paskaičiuokite masyvo pirminių skaičių vidurkį ir jeigu mažesnis nei 70 viską kartokite.
 
-[
-  [1,2,3,4,5,6,7,8,9,100], // random nuo 1 iki 100 pasidaryti
-  [1,2,3,4,5,6,7,8,9,100],
-  [1,2,3,4,5,6,7,8,9,100],
-  [1,2,3,4,5,6,7,8,9,100],
-  [1,2,3,4,5,6,7,8,9,100],
-  [1,2,3,4,5,6,7,8,9,100],
-  [1,2,3,4,5,6,7,8,9,100],
-  [1,2,3,4,5,6,7,8,9,100],
-  [1,2,3,4,5,6,7,8,9,100],
-  [1,2,3,4,5,6,7,8,9,100]
-]
+// [
+//   [1,2,3,4,5,6,7,8,9,100], // random nuo 1 iki 100 pasidaryti
+//   [1,2,3,4,5,6,7,8,9,100],
+//   [1,2,3,4,5,6,7,8,9,100],
+//   [1,2,3,4,5,6,7,8,9,100],
+//   [1,2,3,4,5,6,7,8,9,100],
+//   [1,2,3,4,5,6,7,8,9,100],
+//   [1,2,3,4,5,6,7,8,9,100],
+//   [1,2,3,4,5,6,7,8,9,100],
+//   [1,2,3,4,5,6,7,8,9,100],
+//   [1,2,3,4,5,6,7,8,9,100]
+// ]
 
-for (let i = 0; i <= 10; i++) {
+// for (let i = 0; i <= 10; i++) {
 
-}
+// }
 
-let arrayFromTen = []
-
-
-// let MyRandomArray2 = generateRandomArray(10, 1, 100)
-
-// console.log(MyRandomArray2);
-
-// isPrime(MyRandomArray2)
-
-//reikes while. ciklas cikle pereit per visus elementus 10 kartu per 
+// let arrayFromTen = []
